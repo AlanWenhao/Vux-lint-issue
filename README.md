@@ -1,3 +1,7 @@
+# Issue
+`run node_modules/.bin/eslint src/main.js --debug`
+It stucks
+
 # lint-issue
 
 > A Vue.js project
